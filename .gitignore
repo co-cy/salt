@@ -155,3 +155,8 @@ nox.*.tar.xz
 /.aiderignore
 /aider.conf.yml
 /.gemini
+
+# Quilt working state (cy/* fork patch workflow)
+/.pc/
+*.rej
+*.orig

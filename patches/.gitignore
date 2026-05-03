@@ -1,0 +1,5 @@
+# Quilt scratch files
+series~
+series.bak
+*.rej
+*.orig

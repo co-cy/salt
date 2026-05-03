@@ -1,0 +1,4 @@
+# Quilt series file for cy/* patches.
+# Format: one patch filename per line. Comments and blank lines are ignored.
+# Patch files live next to this file as patches/NNNN-short-description.patch
+# and are managed via quilt (see scripts/new-patch.sh).
