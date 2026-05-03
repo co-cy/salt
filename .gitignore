@@ -160,3 +160,6 @@ nox.*.tar.xz
 /.pc/
 *.rej
 *.orig
+
+# Local build output (cy/* fork)
+/dist/
